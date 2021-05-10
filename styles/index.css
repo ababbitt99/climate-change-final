@@ -25,6 +25,19 @@ main {
   padding: 0 1rem;
 }
 
+.content {
+  padding: 2rem 0;
+  text-align: center;
+}
+
+.content h1 {
+  margin-bottom: 1em;
+}
+
+.map-container {
+  padding-bottom: 2rem;
+}
+
 .map-container,
 #map {
   width: 100%;
